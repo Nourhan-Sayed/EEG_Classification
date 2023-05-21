@@ -37,8 +37,7 @@ The Spanish phrases Arriba, Abajo, Derecha, and Izquierda, which correspond to u
 
 
 ####  1 - Random Forest Classifier (Decision Tree Based)
-A classifier that contains a number of decision trees on various subsets of the given dataset and takes the average 
-to improve the predictive accuracy of that dataset.
+
 
 
 
