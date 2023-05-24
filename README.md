@@ -51,7 +51,7 @@ We reached an average multi-class classification of 28.9% 4-fold cross-validatio
 
 
 
-#### 4- Results
+### Results
 The SVC Model Showed an accuracy of 28.9% compared to Gasparini et al accuracy of 26.2%
 The Random forest showed an accuracy of 24.7%
 the XGBoost showed an accuracy of 27.6% compared to Gasparini et al accuracy of 27.9% 
