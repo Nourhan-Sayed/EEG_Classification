@@ -28,7 +28,7 @@ The decoding of the EEG into text should be understood as the classification of 
 
 The Spanish phrases Arriba, Abajo, Derecha, and Izquierda, which correspond to up, down, right, and left, respectively.
 
-
+We reached an average multi-class classification of 28.9% 4-fold cross-validation accuracy, and 23.7% using XGBoost, compared to the accuracy of SVM and XGBoost by Gasparini et al, 26.2% and 27.9% respectively.
 
 ### Machine Learning Process
 - Classifier
@@ -52,7 +52,9 @@ The Spanish phrases Arriba, Abajo, Derecha, and Izquierda, which correspond to u
 
 
 #### 4- Results
-The Model Showed Precision of  & Accuracy of 
+The SVC Model Showed an accuracy of 28.9% compared to Gasparini et al accuracy of 26.2%
+The Random forest showed an accuracy of 24.7%
+the XGBoost showed an accuracy of 27.6% compared to Gasparini et al accuracy of 27.9% 
 
 
 
